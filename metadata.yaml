@@ -1,0 +1,48 @@
+_repo: Timbouctou-voyage-au-Maroc-au-Sahara-et-au-Soudan-Tome-2-de-2_74286
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lehautcourt, Pierre
+    aliases:
+    - Palat, général (Barthélemy-Edmond)
+    - Palat, general (Barthelemy-Edmond)
+    birthdate: 1852
+    deathdate: 1931
+    gutenberg_agent_id: '57424'
+    url: http://www.gutenberg.org/2009/agents/57424
+creator:
+  author:
+    agent_name: Lenz, Oskar
+    aliases:
+    - Lenz, Heinrich Oskar
+    - Lenz, Hermann Heinrich Oskar
+    - Lenz, Oscar
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '57423'
+    url: http://www.gutenberg.org/2009/agents/57423
+    wikipedia: https://de.wikipedia.org/wiki/Oskar_Lenz
+description: ''
+gutenberg_issued: '2024-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74286'
+language: fr
+pgterms:marc904: https://archive.org/details/timbouctouvoyage11886lenz
+pgterms:marc905: 20240804231414lenz
+pgterms:marc906: '1886'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive/Smithsonian Institution Libraries and University
+  of Toronto Library)
+publication_note: '  $aParis :$bHachette, $c1886, copyright 1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- Description and travel'
+- !lcsh 'Tombouctou (Mali) -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: Timbouctou, voyage au Maroc au Sahara et au Soudan, Tome 2 (de 2)
+url: http://www.gutenberg.org/ebooks/74286
