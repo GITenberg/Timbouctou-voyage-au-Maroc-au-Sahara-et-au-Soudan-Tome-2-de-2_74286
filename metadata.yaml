@@ -10,6 +10,9 @@ contributor:
     deathdate: 1931
     gutenberg_agent_id: '57424'
     url: http://www.gutenberg.org/2009/agents/57424
+covers:
+- cover_type: archival
+  image_path: 74286-h/images/cover.jpg
 creator:
   author:
     agent_name: Lenz, Oskar
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57423
     wikipedia: https://de.wikipedia.org/wiki/Oskar_Lenz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74286#Timbouctou-voyage-au-Maroc-au-Sahara-et-au-Soudan-Tome-2-de-2
 gutenberg_issued: '2024-08-21'
 gutenberg_type: Text
 identifiers:
